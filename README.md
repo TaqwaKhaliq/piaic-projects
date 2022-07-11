@@ -1,2 +1,0 @@
-# piaic-projects
-python projects
